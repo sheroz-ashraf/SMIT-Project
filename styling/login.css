@@ -1,0 +1,20 @@
+.main-bg{
+    background-color:rgb(241, 198, 241);
+    color: purple;
+}
+.heading{
+    color: purple;
+}
+.my-btn{
+    color:purple;
+    font-size:1.5rem;
+}
+label.form-label a {
+    
+    color: #800080;
+}
+
+.header-link a:not(:last-child) {
+    display: inline-block;
+    margin-right: 10px;
+}

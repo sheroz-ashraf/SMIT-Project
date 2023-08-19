@@ -1,0 +1,25 @@
+header {
+    background: purple;
+    padding: 6px;
+}
+
+.mycontainer {
+    max-width: 80%;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.head-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.head-content h2, .head-content a {
+    color: #fff;
+    text-decoration: none;
+}
+.header-link a:first-child {
+    display: inline-block;
+    margin-right: 10px;
+}
